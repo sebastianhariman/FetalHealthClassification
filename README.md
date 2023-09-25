@@ -1,11 +1,13 @@
 # DEVELOPMENT OF MACHINE LEARNING TECHNOLOGY IN FETAL HEALTH PREDICTION USING CARDIOTOCOGRAPHY DATA
 
-In this project, our team created a machine learning model to classify the result of Cardiotocogram test to ensure the well being of the fetus. The dataset of interest is the fetal health dataset on Kaggle.
+In this project, our team created a machine-learning model to classify the result of the Cardiotocogram test to ensure the well-being of the fetus. The dataset of interest is the fetal health dataset on Kaggle.
 
 ## Dataset Information
 Cardiotocography (CTG) is used during pregnancy to monitor fetal well-being and allows early detection of fetal distress,  allowing healthcare professionals to take action in order to prevent child and maternal mortality.
 
-The output variable in this dataset is the fetal heath, which consists of 3 classes: Normal, Suspect, Pathological.
+The output variable in this dataset is the fetal heath, which consists of 3 classes: Normal, Suspect, and Pathological.
+
+Download link: https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
 
 ## Libraries
 - Numpy
